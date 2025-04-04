@@ -2,3 +2,4 @@
 .idea
 .venv
 MNIST
+config.json
