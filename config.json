@@ -1,7 +1,0 @@
-{
-  "api_key": "09e7ef15-86a5-4b6b-b83d-02902267808a",
-  "base_url": "https://ark.cn-beijing.volces.com/api/v3",
-  "chat_model": "doubao-1-5-pro-32k-250115",
-  "step_chat_model": "deepseek-r1-250120",
-  "embedding_model": "doubao-embedding-text-240715"
-}
